@@ -1,5 +1,8 @@
 # marks
-developed by raghavendra  jadar
+developed by raghavendra  jadar 
+
+
+
 #include<stdio.h>
 main()
 {
